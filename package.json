@@ -1,0 +1,34 @@
+{
+	"name": "pnpm-vite-vue-ts-starter",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vue-tsc -b && vite build",
+		"preview": "vite preview",
+		"lint": "oxlint --fix",
+		"typecheck": "vue-tsc --noEmit",
+		"fmt": "oxfmt --write .",
+		"format": "pnpm typecheck && pnpm lint && pnpm fmt"
+	},
+	"dependencies": {
+		"@fontsource/roboto": "^5.3.0",
+		"@mdi/font": "^7.4.47",
+		"vue": "^3.5.40"
+	},
+	"devDependencies": {
+		"@types/node": "^26.1.2",
+		"@vitejs/plugin-vue": "^6.0.8",
+		"@vue/tsconfig": "^0.9.1",
+		"oxfmt": "^0.62.0",
+		"oxlint": "^1.77.0",
+		"typescript": "~6.0.3",
+		"unplugin-fonts": "^2.0.0",
+		"vite": "^8.2.0",
+		"vite-plugin-vue-devtools": "^8.2.1",
+		"vite-plugin-vuetify": "^2.1.3",
+		"vue-tsc": "^3.3.9",
+		"vuetify": "^4.1.7"
+	}
+}
