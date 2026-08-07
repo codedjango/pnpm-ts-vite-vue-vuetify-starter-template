@@ -15,7 +15,9 @@
 	"dependencies": {
 		"@fontsource/roboto": "^5.3.0",
 		"@mdi/font": "^7.4.47",
-		"vue": "^3.5.41"
+		"pinia": "^4.0.2",
+		"vue": "^3.5.41",
+		"vue-router": "^5.2.0"
 	},
 	"devDependencies": {
 		"@types/node": "^26.1.2",
