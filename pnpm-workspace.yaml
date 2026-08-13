@@ -1,2 +1,2 @@
-minimumReleaseAgeExclude: [vite@8.2.1, vuetify@4.1.8, pinia@4.0.3]
+minimumReleaseAgeExclude: [vite@8.2.1, vuetify@4.1.8 || 4.1.9, pinia@4.0.3]
 minimumReleaseAgeStrict: false
