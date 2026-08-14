@@ -25,13 +25,15 @@ const ui = useUiStore()
 				<router-link
 					class="px-2 text-white"
 					:to="{ name: 'home' }"
-					>Home</router-link
 				>
+					Home
+				</router-link>
 				<router-link
 					class="px-2 text-white"
 					:to="{ name: 'about' }"
-					>About</router-link
 				>
+					About
+				</router-link>
 			</div>
 		</template>
 	</v-app-bar>

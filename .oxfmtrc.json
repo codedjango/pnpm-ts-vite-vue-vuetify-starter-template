@@ -7,5 +7,6 @@
 	"sortImports": true,
 	"trailingComma": "es5",
 	"sortTailwindcss": true,
-	"singleAttributePerLine": true
+	"singleAttributePerLine": true,
+	"htmlWhitespaceSensitivity": "ignore"
 }
