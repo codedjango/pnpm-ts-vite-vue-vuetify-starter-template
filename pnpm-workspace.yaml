@@ -1,2 +1,3 @@
-minimumReleaseAgeExclude: [vite@8.2.1, vuetify@4.1.8 || 4.1.9, pinia@4.0.3]
+minimumReleaseAgeExclude:
+  [vite@8.2.1, vuetify@4.1.8 || 4.1.9, pinia@4.0.3, '@vue/language-core@3.3.10', vue-tsc@3.3.10]
 minimumReleaseAgeStrict: false
