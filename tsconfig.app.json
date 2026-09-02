@@ -9,7 +9,7 @@
 			"@/*": ["./src/*"]
 		},
 		"tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
-		"types": ["vite/client"],
+		"types": ["vite/client", "unplugin-fonts/client"],
 		"libReplacement": true,
 
 		/* Linting */
