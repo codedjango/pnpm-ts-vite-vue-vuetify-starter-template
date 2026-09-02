@@ -42,3 +42,4 @@ minimumReleaseAgeExclude:
   - oxlint@1.80.0 || 1.81.0
   - vuetify@4.1.12 || 4.2.0
   - '@vuetify/v0@1.2.1'
+  - vue-router@5.3.1
