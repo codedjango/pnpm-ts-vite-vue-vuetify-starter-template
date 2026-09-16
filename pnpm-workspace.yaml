@@ -46,3 +46,6 @@ minimumReleaseAgeExclude:
   - '@types/web@0.0.355 || 0.0.356'
   - vite@8.3.0
   - '@vitejs/plugin-vue@6.0.9'
+  - '@vueuse/core@15.0.0'
+  - '@vueuse/metadata@15.0.0'
+  - '@vueuse/shared@15.0.0'
