@@ -19,11 +19,11 @@
 		"pinia": "^4.1.0",
 		"vue": "^3.5.44",
 		"vue-router": "^5.4.0",
-		"vuetify": "^4.2.5"
+		"vuetify": "^4.2.6"
 	},
 	"devDependencies": {
 		"@types/node": "^26.6.5",
-		"@types/web": "^0.0.358",
+		"@types/web": "^0.0.359",
 		"@vitejs/plugin-vue": "^6.0.10",
 		"@vue/tsconfig": "^0.9.1",
 		"oxfmt": "^0.73.0",
