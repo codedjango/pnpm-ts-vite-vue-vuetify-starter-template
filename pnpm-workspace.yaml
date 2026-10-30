@@ -59,6 +59,6 @@ minimumReleaseAgeExclude:
   - '@vue/server-renderer@3.5.43'
   - '@vue/shared@3.5.43'
   - vue@3.5.43
-  - '@vue/language-core@3.3.13'
-  - vue-tsc@3.3.13
+  - '@vue/language-core@3.3.13 || 3.3.14'
+  - vue-tsc@3.3.13 || 3.3.14
   - pinia@4.1.0
