@@ -43,9 +43,9 @@ minimumReleaseAgeExclude:
   - vuetify@4.1.12 || 4.2.0 || 4.2.1 || 4.2.2 || 4.2.5 || 4.2.6 || 4.3.0 || 4.3.1
   - '@vuetify/v0@1.2.1'
   - vue-router@5.3.1
-  - '@types/web@0.0.355 || 0.0.356 || 0.0.359'
+  - '@types/web@0.0.355 || 0.0.356 || 0.0.359 || 0.0.365'
   - vite@8.3.0 || 8.3.1 || 8.3.5
-  - '@vitejs/plugin-vue@6.0.9 || 6.0.10'
+  - '@vitejs/plugin-vue@6.0.9 || 6.0.10 || 6.0.11'
   - '@vueuse/core@15.0.0'
   - '@vueuse/metadata@15.0.0'
   - '@vueuse/shared@15.0.0'
